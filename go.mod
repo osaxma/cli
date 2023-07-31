@@ -8,7 +8,7 @@ require (
 	github.com/charmbracelet/bubbletea v0.24.2
 	github.com/charmbracelet/glamour v0.6.0
 	github.com/charmbracelet/lipgloss v0.7.1
-	github.com/deepmap/oapi-codegen v1.13.0
+	github.com/deepmap/oapi-codegen v1.13.1
 	github.com/docker/docker v20.10.23+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/jackc/pgx/v4 v4.18.1
@@ -29,7 +29,7 @@ require (
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
-	github.com/getkin/kin-openapi v0.117.0 // indirect
+	github.com/getkin/kin-openapi v0.118.0 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/swag v0.21.1 // indirect
@@ -62,9 +62,9 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/sync v0.2.0 // indirect
-	golang.org/x/tools v0.9.2 // indirect
+	golang.org/x/mod v0.12.0 // indirect
+	golang.org/x/sync v0.3.0 // indirect
+	golang.org/x/tools v0.11.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gotest.tools/v3 v3.0.3 // indirect
 )
@@ -117,11 +117,11 @@ require (
 	github.com/subosito/gotenv v1.4.2 // indirect
 	github.com/yuin/goldmark v1.5.2 // indirect
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
-	golang.org/x/crypto v0.9.0 // indirect
-	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/crypto v0.11.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/term v0.10.0
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/text v0.11.0 // indirect
 	google.golang.org/grpc v1.57.0
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/h2non/gock.v1 v1.1.2
