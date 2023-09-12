@@ -29,7 +29,7 @@ jobs:
         run: |
           TAG=${{ matrix.src }}
           echo "::set-output name=dst::${TAG##*/}"
-      - uses: docker/login-action@v2
+      - uses: docker/login-action@v3
         with:
           registry: public.ecr.aws
           username: ${{ secrets.PROD_ACCESS_KEY_ID }}
