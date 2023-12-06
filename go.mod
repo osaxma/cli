@@ -17,7 +17,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20
 	github.com/muesli/reflow v0.3.0
 	github.com/spf13/cobra v1.8.0
-	github.com/spf13/viper v1.17.0
+	github.com/spf13/viper v1.18.0
 	github.com/withfig/autocomplete-tools/packages/cobra v1.2.0
 )
 
@@ -76,7 +76,7 @@ require (
 	github.com/perimeterx/marshmallow v1.1.5 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/sagikazarmark/locafero v0.3.0 // indirect
+	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
 	github.com/sahilm/fuzzy v0.1.0 // indirect
 	github.com/schollz/closestmatch v2.1.0+incompatible // indirect
@@ -112,7 +112,7 @@ require (
 	github.com/dlclark/regexp2 v1.7.0 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/go-units v0.5.0
-	github.com/fsnotify/fsnotify v1.6.0 // indirect
+	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/gin-gonic/gin v1.9.1
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
@@ -143,7 +143,7 @@ require (
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/spf13/afero v1.11.0
-	github.com/spf13/cast v1.5.1 // indirect
+	github.com/spf13/cast v1.6.0 // indirect
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.4
 	github.com/subosito/gotenv v1.6.0 // indirect
